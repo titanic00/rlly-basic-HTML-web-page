@@ -1,0 +1,27 @@
+* {
+    font-family: 'Century Gothic';
+}
+
+.yellowBlock {
+    background-color: #faebd7;
+    text-align: center;
+}
+
+main {
+    background-color: #a0db8e;
+    font-size: 20px;
+}
+
+.cookingPic {
+    height: 250px;
+    border: 2px solid black;
+}
+
+.step {
+    background-color: #faebd7;
+    color: black;
+}
+
+footer {
+    background-color: #ff80ed;
+}
